@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0f8b41d-9e32-4781-8d61-a0de2c19fffb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Python homeworks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm1/t1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm1/t2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm1/t3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm1/t4/set.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm1/t4/string.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm2/t1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm2/t2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm3/t1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm3/t2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm3/t3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm3/t4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm3/t5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm3/t6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm4/t1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm4/t10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm4/t11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm4/t2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm4/t3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm4/t4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm4/t5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm4/t6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm4/t7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm4/t8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm4/t9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm5/t1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm5/t2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm5/t3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm5/t4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm5/t5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm5/t6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm6/t1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm6/t2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2qOGSNexgFe0Qh0OtRJdLIEovoK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.t1.executor": "Run",
+    "Python.t2.executor": "Run",
+    "Python.t3.executor": "Run",
+    "Python.t5.executor": "Run",
+    "Python.t6.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/User/PycharmProjects/Python homeworks/hm6"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\Python homeworks\hm6" />
+      <recent name="C:\Users\User\PycharmProjects\Python homeworks\hm1\t4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\Python homeworks" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c69650fc56ca-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15619.17" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0f8b41d-9e32-4781-8d61-a0de2c19fffb" name="Changes" comment="" />
+      <created>1734526206807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734526206807</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
