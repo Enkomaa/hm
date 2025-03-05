@@ -16,5 +16,5 @@ else:
             new_string = new_string +string[j]+str(letter)
         elif string[-1] != string[-2]:
             new_string = new_string +string[j]+str(letter)
-            c = 1
+            letter = 1
 print(new_string)
